@@ -1,6 +1,6 @@
 // ================================================================
 // Lab: Inheritance in C++
-// Course: Object-Oriented Programming for Engineers
+// Course: Object-Oriented Programming for Engineers  
 // File: MainProgram.cpp
 // ================================================================
 // INSTRUCTIONS:
